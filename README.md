@@ -1,2 +1,2 @@
 # portfolio-landing
-A simple landing page built with HTML, CSS, and JavaScript
+موقع وكالة رقمية بسيطة مصمم بـ HTML و CSS
